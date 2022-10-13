@@ -393,6 +393,11 @@ display: flex;
 justify-content: center;
 align-items: center;
 }
+.button-load:hover{
+    -webkit-box-shadow: 0px 10px 55px 12px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 10px 55px 12px rgba(0,0,0,0.75);
+box-shadow: 0px 10px 55px 12px rgba(0,0,0,0.75);
+}
 .btn-img{
   margin-right: 15px;
 }
